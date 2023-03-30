@@ -23,20 +23,20 @@ a {
 @media only screen and (min-width: 768px) {
   body {
     font-size: 16px;
-    color: blue;
+    
   }
 }
 
 @media only screen and (min-width: 489px) and (max-width: 768px) {
   body {
     font-size: 15px;
-    color: aqua;
+   
   }
 }
 
 @media only screen and (max-width: 479px){
   body{
     font-size: 14px;
-    color: white;
+    
   }
 }

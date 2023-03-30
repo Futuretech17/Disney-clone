@@ -1,11 +1,13 @@
 import styled from 'styled-components'
 import React from "react";
+import Header from './Header'
 
 
 
 const Login = (props) => {
     return ( 
       <Container>
+       <Header />
         <Content>
           <CTA>
             <CTAlogoOne src='./images/cta-logo-one.png' ></CTAlogoOne>
